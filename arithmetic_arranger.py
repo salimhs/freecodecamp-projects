@@ -1,8 +1,6 @@
 #Arithmetic Formatter FCC project
 import math
 
-
-
 def arithmetic_arranger(problems, display=False):
     
     #Seperating the problem into lists
